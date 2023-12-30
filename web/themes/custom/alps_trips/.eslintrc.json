@@ -1,0 +1,4 @@
+{
+  "extends": "./core/.eslintrc.json",
+  "ignorePatterns": ["postcss.config.js", "build/*.js"]
+}
